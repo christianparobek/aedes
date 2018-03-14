@@ -1,2 +1,2 @@
 # aedes
-Long-read de novo Aedes assembly
+Long-read de novo Aedes assembly using Canu
